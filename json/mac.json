@@ -1,18 +1,18 @@
 [
     {
-        "image":"/images/mac1.jpg",
+        "image":"../images/mac1.jpg",
         "name": "Retro Matte Lipstick",
         "shade": "Ruby Woo",
         "rate": "Rs. 1700"
     },
     {
-        "image": "/images/mac2.jpg",
+        "image": "../images/mac2.jpg",
         "name": "Lip Pencil",
         "shade": "Cork",
         "rate": "Rs. 1650"
     },
     {
-        "image": "/images/mac3.jpg",
+        "image": "../images/mac3.jpg",
         "name": "Studio Fix Fluid SPF 15",
         "shade": "NC13",
         "rate": "Rs. 2900"
