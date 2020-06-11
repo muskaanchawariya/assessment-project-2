@@ -4,7 +4,7 @@ var btn1 = document.getElementById('may');
 btn1.addEventListener('click',getMay);
 function getMay(){
     var xhr= new XMLHttpRequest();
-    xhr.open('GET','/json/may.json',true);
+    xhr.open('GET','../json/may.json',true);
     xhr.onreadystatechange = function(){
         if(this.readyState==4 && this.status==200){
             var products = JSON.parse(this.responseText);
@@ -34,7 +34,7 @@ var btn2= document.getElementsByClassName('lakme')[0];
 btn2.addEventListener('click',getLak);
 function getLak(){
      var xhr=new XMLHttpRequest();
-     xhr.open('GET','/json/lakme.json', true);
+     xhr.open('GET','../json/lakme.json', true);
      xhr.onreadystatechange = function(){
          if(this.readyState==4 && this.status==200){
              var products=JSON.parse(this.responseText);
@@ -64,7 +64,7 @@ var btn3= document.getElementsByClassName('huda')[0];
 btn3.addEventListener('click',getHuda);
 function getHuda(){
      var xhr=new XMLHttpRequest();
-     xhr.open('GET','/json/huda.json',true);
+     xhr.open('GET','../json/huda.json',true);
      xhr.onreadystatechange=function(){
          if(this.readyState==4 && this.status==200){
              var products= JSON.parse(this.responseText);
@@ -94,7 +94,7 @@ var btn4= document.getElementsByClassName('loreal')[0];
 btn4.addEventListener('click',getLor);
 function getLor(){
      var xhr=new XMLHttpRequest();
-     xhr.open('GET','/json/loreal.json',true);
+     xhr.open('GET','../json/loreal.json',true);
      xhr.onreadystatechange=function(){
          if(this.readyState==4 && this.status==200){
              var products= JSON.parse(this.responseText);
@@ -124,7 +124,7 @@ function getLor(){
  btn5.addEventListener('click',getMac);
  function getMac(){
      var xhr= new XMLHttpRequest();
-     xhr.open('GET','/json/mac.json',true);
+     xhr.open('GET','../json/mac.json',true);
      xhr.onreadystatechange=function(){
          if(this.readyState==4 && this.status==200){
              var products=JSON.parse(this.responseText);
