@@ -1,18 +1,18 @@
 [
     {
-        "image": "/images/huda1.jpg",
+        "image": "../images/huda1.jpg",
         "name": "Demi Matte Cream Liquid Lipstick",
         "shade": "Feminist",
         "rate": "Rs. 1551"
     },
     {
-        "image": "/images/huda2.jpg",
+        "image": "../images/huda2.jpg",
         "name": "Obsessions Eyeshadow Palette",
         "shade": "Emerald",
         "rate": "Rs. 1996"
     },
     {
-        "image": "/images/huda3.jpg",
+        "image": "../images/huda3.jpg",
         "name": "Power Bullet Matte Lipstick",
         "shade": "Pay Day",
         "rate": "Rs. 1696"
