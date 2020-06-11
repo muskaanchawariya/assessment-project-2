@@ -1,0 +1,18 @@
+[
+    {
+        "image": "/images/fb.jpg",
+        "username": "The Belle"
+    },
+    {
+        "image": "/images/insta.jpg",
+        "username": "@thebelle"
+    },
+    {
+        "image": "/images/twitter.jpg",
+        "username": "@thebelle"
+    },
+    {
+        "image": "/images/gmail.jpg",
+        "username": "thebelle@gmail.com"
+    }
+]

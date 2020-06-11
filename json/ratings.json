@@ -1,0 +1,20 @@
+[
+    {
+        "image": "/images/belle.jpg",
+        "username": "aarzooq",
+        "name": "Aarzoo Qureshi",
+        "ratings": "5 stars"
+    },
+    {
+        "image": "/images/snow.jpg",
+        "username": "nkhan",
+        "name": "Noor Khan",
+        "ratings": "4.5 stars"
+    },
+    {
+        "image": "/images/rapunzel.jpg",
+        "username": "sargam",
+        "name": "Sargam Aruna",
+        "ratings": "4.5 stars"
+    }
+]

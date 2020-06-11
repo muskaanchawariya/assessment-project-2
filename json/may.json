@@ -1,0 +1,20 @@
+[
+    {
+        "image": "/images/may1.jpg",
+        "name": "The Colossal Mascara",
+        "shade": "Waterproof Black",
+        "rate": "Rs. 344"
+    },
+    {
+        "image": "/images/may2.jpg",
+        "name": "Color Sensational Creamy Matte Lipstick",
+        "shade": "Bold Crimson",
+        "rate": "Rs. 254"
+    },
+    {
+        "image":"/images/may3.jpg",
+        "name": "Face Studio Master Chrome Metallic Highliter",
+        "shade": "Molten Gold",
+        "rate": "Rs. 468"
+    }
+]
