@@ -1,18 +1,18 @@
 [
     {
-        "image": "/images/lakme1.jpg",
+        "image": "../images/lakme1.jpg",
         "name": "Eyeconic Curling Mascara",
         "shade": "Royal Blue",
         "rate": "Rs. 319"
     },
     {
-        "image": "/images/lakme2.jpg",
+        "image": "../images/lakme2.jpg",
         "name": "Absolute Shine Line Eyeliner",
         "shade": "Shimmery Bronze",
         "rate": "Rs. 360"
     },
     {
-        "image": "/images/lakme3.jpg",
+        "image": "../images/lakme3.jpg",
         "name": "Absolute Gel Stylist Nail Polish",
         "shade": "Peach Sorbet",
         "rate": "Rs. 250"
