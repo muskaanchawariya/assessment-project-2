@@ -1,18 +1,18 @@
 [
     {
-        "image": "/images/loreal1.jpg",
+        "image": "../images/loreal1.jpg",
         "name": "Infallible Pro-Matte Foundation",
         "shade": "Classic Ivory",
         "rate": "Rs. 600"
     },
     {
-        "image": "/images/loreal2.jpg",
+        "image": "../images/loreal2.jpg",
         "name": "Voluminous Lash Paradise Mascara",
         "shade": "Blackest Black",
         "rate": "Rs. 639"
     },
     {
-        "image":"/images/loreal3.jpg",
+        "image":"../images/loreal3.jpg",
         "name": "Rouge Signature Matte Liquid Lipstick",
         "shade": "Lead",
         "rate": "Rs. 520"
