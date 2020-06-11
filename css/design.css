@@ -1,7 +1,7 @@
 /* Welcome page */
 
 .welcome{
-    background-image: url("/images/bgwel.jpg");
+    background-image: url("../images/bgwel.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -64,7 +64,7 @@
  /* About Us */
 
  .about{
-     background-image: url("/images/bgabout.jpg");
+     background-image: url("../images/bgabout.jpg");
      background-repeat: no-repeat;
      background-size: cover;
 }
@@ -103,7 +103,7 @@
 /* Home page */
 
 .home{
-    background-image: url("/images/bgabout.jpg");
+    background-image: url("../images/bgabout.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -229,7 +229,7 @@
 }
 /* Review page */
 .reviews{
-    background-image: url("/images/bgabout.jpg");
+    background-image: url("../images/bgabout.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
